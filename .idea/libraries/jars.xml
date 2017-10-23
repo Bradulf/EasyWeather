@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/lint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

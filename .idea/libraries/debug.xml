@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/debug_0e9220a918b271b98e974ec9124a8cd7cee81f51.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_8a38f8c5012ba14871c42d6f1ca605142d7f7846.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c7bc8035d0639d68fa75225ec36b3ab6c00d5996.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7c707d593445dbc3e27b7c3570daefc64bfc7433.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_17d0ec8a835b0e0a69e2ae43e42c939fbd30d37a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6a9b944aaa6b7ad67d357f028be74855082c5e9a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_77b7c80752add9852ad6c31b25e867fef1f83117.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_390b77b4fe95b968d453a8bf175aa0f9f2b7cef0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_ca8f654672e42ac2524aba64598fa33b9b8d420e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_4a9979d9ad9813c5af18d0c6718300a085b8cf87.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_480b74b3fbdfeacff0e3d9beee106e45932231e7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_49e1cf1f43a8b4747d004c7650fa0bd5ac2f668e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_df602e24ff7a7ed7613d6db59ff34c56b2736ba5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_ccaa240f3675834b0c3457797e1eb2733b602f58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_fe2e35d62b8ae846a0cd0222608cc853fadabcbb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a6502a7aea24365053c193050fd3d35db167bb3e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_56cfae3db962927dfb3934285322fbcbb8b7a9a9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_24e45ed200fdc1a43687fcb895a9c645c34d8ee3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0b788dfb78af376ebb17635168d46bc2383361c2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_05e66499b1d57cadcf08cd4c5fc9bb79e3d429a0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EasyWeather/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_ac2c6a7f14c198a10aa30768e75063e2da89be1e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
